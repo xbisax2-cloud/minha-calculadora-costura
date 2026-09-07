@@ -1,0 +1,12 @@
+[theme]
+# Cor principal (botões e destaques) vai virar um Verde Vivo
+primaryColor = "#00FF66"
+
+# Cor do fundo da página principal vai virar um Azul Escuro Marinho
+backgroundColor = "#f7eef5"
+
+# Cor do fundo da barra lateral vai virar um Cinza Claro Azulado
+secondaryBackgroundColor = "#e9f4ed"
+
+# Cor dos textos vai virar Preto para ler no fundo claro da lateral
+textColor = "#111111"
